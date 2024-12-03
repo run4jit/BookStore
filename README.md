@@ -1,2 +1,5 @@
 # BookStore
-show the books list
+Show books list
+Search books by title, author, summary etc.
+Shows Book description
+ 
